@@ -1,0 +1,32 @@
+body{
+	margin-left:auto;
+	margin-right:auto;
+	width:75%;
+}
+
+#header{
+	width:100%;
+	background-color:gray;
+	height:100px;
+}
+
+#navbar{
+	width:100%;
+	background-color:blue;
+	height:75px;
+}
+
+#content{
+	width:100%;
+	background-color:red;
+	height:auto;
+}
+
+#content p{
+	padding:50px;
+}
+
+#footer{
+	background-color:green;
+	height:50px;
+}
