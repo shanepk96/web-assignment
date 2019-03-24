@@ -125,42 +125,40 @@ h2.title {
 	color:rgb(255,174,201);
 }
 
-.education-profile{
+.profile{
 	display:inline;
+	border-bottom:dotted 1px blue;
 }
-.education-profile ol{
+.profile ol{
 	padding-right:5px;
 	display:inline;
 	}
 
 
-.module-overview{
+.table-overview{
 	width:auto;
 	margin-right:250px;
 }
-.module-overview caption{
+.table-overview caption{
 	font-size:40px;
 }
-.module-overview th{
+.table-overview th{
 	border:solid 1px blue;
 }
-.module-overview td{
+.table-overview td{
 	padding:3px;
 	border:dotted 2px black;
 }
-.course-link{
+.profile-link{
 	width:75%;
 	margin-left:auto;
 	margin-right:auto;
 	border-bottom:dotted 1px blue;
 }
-.course-link p{
+.profile-link p{
 	display:inline;
 }
-.course.link img{
-	display:inline;
-	background-color:rgb(0,76,108);
-}
+
 /* styling for footer */
 #footer{
 	clear:right;
