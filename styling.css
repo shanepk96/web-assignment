@@ -1,7 +1,7 @@
 *{
 	box-size:border-box;
 }
-
+/* Styling for logo banner and nav bar */
 body{
 	margin-left:auto;
 	margin-right:auto;
@@ -45,6 +45,7 @@ h2.title {
 	padding-right:14px;
 	font-size:20px;
 }
+/* Styling for the homepage */
 
 #content{
 	width:100%;
@@ -124,6 +125,43 @@ h2.title {
 	color:rgb(255,174,201);
 }
 
+.education-profile{
+	display:inline;
+}
+.education-profile ol{
+	padding-right:5px;
+	display:inline;
+	}
+
+
+.module-overview{
+	width:auto;
+	margin-right:250px;
+}
+.module-overview caption{
+	font-size:40px;
+}
+.module-overview th{
+	border:solid 1px blue;
+}
+.module-overview td{
+	padding:3px;
+	border:dotted 2px black;
+}
+.course-link{
+	width:75%;
+	margin-left:auto;
+	margin-right:auto;
+	border-bottom:dotted 1px blue;
+}
+.course-link p{
+	display:inline;
+}
+.course.link img{
+	display:inline;
+	background-color:rgb(0,76,108);
+}
+/* styling for footer */
 #footer{
 	clear:right;
 	background-color:#d3d3d3;
