@@ -158,7 +158,11 @@ h2.title {
 .profile-link p{
 	display:inline;
 }
-
+.skills-overview{
+	width:auto;
+	margin-right:auto;
+	margin-left:auto;
+}
 /* styling for footer */
 #footer{
 	clear:right;
